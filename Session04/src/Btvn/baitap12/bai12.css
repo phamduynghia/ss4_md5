@@ -1,0 +1,21 @@
+.form-add {
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    input {
+        flex: 1;
+        margin-right: 20px;
+        height: 40px;
+        border-radius: 8px;
+    }
+
+    button {
+        background-color: rgb(126, 169, 154);
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
